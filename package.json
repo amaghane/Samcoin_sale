@@ -1,0 +1,17 @@
+{
+    "name": "samcoin-sale",
+    "version": "1.0.0",
+    "description": "Token Sale ICO",
+    "main": "truffle.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "Sam",
+    "license": "ISC",
+    "devDependencies": {
+        "lite-server": "^2.3.0"
+    }
+}
